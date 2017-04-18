@@ -60,6 +60,3 @@ target/
 
 # Pycharm-related files
 .idea
-
-# IPython Notebooks
-.ipynb_notebooks
